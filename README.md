@@ -1,1 +1,1 @@
-# mcpr2024 tutorial of neuroevolution
+# MCPR 2024 Tutorial of neuroevolution
